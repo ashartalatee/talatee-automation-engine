@@ -1,0 +1,8 @@
+.venv/
+**/venv/
+_pycache_/
+.ipynb_checkpoints/
+dataset/
+raw/
+downloads/
+*.log
