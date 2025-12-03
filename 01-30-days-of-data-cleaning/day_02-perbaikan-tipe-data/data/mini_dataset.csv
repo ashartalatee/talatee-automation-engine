@@ -1,0 +1,6 @@
+order_id,customer_name,age,city,total_price,order_date
+1001,Andi,25,Jakarta,150000,2024-01-02
+1002,Sari,30,Bandung,200000,2024-01-03
+1003,Budi,,Surabaya,175000,2024-01-04
+1004,Rina,28,Jakarta,,2024-01-05
+1005,Andi,25,Jakarta,150000,2024-01-02
