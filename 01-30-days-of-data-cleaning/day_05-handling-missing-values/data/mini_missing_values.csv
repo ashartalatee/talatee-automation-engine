@@ -1,0 +1,6 @@
+order_id,customer,price,quantity,email
+1,Andi,10000,2,andi@gmail.com
+2,Siti,,3,
+3,,15000,NaN,sus@gmail.com
+4,Budi,20000,1,
+5,Rina,,2,rina@gmail.com
