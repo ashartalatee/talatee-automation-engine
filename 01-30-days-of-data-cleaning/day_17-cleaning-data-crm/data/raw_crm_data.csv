@@ -1,0 +1,6 @@
+name,email,phone,status,name_clean,email_clean,phone_clean,status_clean
+ Andi ,andi@gmail.com ,8123456789.0, lead,Andi,andi@gmail.com,81234567890,Lead
+BUDI,budi@@gmail.com,,,Budi,budi@@gmail.com,,unknown
+Siti,,899999999.0,Prospect,Siti,,8999999990,prospect
+ Rina ,rina@gmail.com,811111111.0, close deal,Rina,rina@gmail.com,8111111110,Deal
+Joko,joko@email.com,855555555.0, LOST,Joko,joko@email.com,8555555550,Lost
