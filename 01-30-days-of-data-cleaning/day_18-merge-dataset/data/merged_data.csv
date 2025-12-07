@@ -1,0 +1,5 @@
+order_id,customer_id,amount,name,email
+1,1001,50000,Andi,andi@gmail.com
+2,1002,75000,Siti,siti@gmail.com
+3,1003,60000,Budi,budi@gmail.com
+4,1004,30000,,
