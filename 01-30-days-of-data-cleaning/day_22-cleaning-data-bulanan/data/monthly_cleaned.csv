@@ -1,0 +1,7 @@
+date,customer,amount,is_outlier
+2025-01-01,Andi,50000.0,True
+2025-01-01,Siti,55000.0,False
+2025-01-02,Budi,60000.0,False
+2025-01-02,Rina,58000.0,False
+2025-01-03,Aldi,58000.0,False
+2025-01-03,Farah,1000000.0,True
