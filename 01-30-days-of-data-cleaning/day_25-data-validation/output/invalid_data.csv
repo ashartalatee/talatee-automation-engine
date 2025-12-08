@@ -1,0 +1,4 @@
+order_id,name,email,age,amount,date,errors
+2,Joko,joko@email,17,90000,2024-13-01,"Invalid email, Invalid age, Invalid date"
+3,Siti,siti@gmail.com,200,450000,2024-02-19,Invalid age
+4,Budi,,35,-500,2023-12-01,"Invalid email, Invalid amount"
