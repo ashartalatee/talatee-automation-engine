@@ -1,0 +1,7 @@
+customer,amount,is_outlier
+Andi,50000,False
+Siti,55000,False
+Budi,60000,False
+Rina,52000,False
+Aldi,58000,False
+Farah,1000000,True
